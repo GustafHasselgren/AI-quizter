@@ -1,0 +1,129 @@
+Frågorna är: 
+{'622a1c357cc59eab6f94fd40': {'question': 'In which language does "Cerveza" mean beer?', 'correctAnswer': 'Spanish'}, 
+'622a1c357cc59eab6f94fd35': {'question': "Which philosopher famously said 'I think therefore I am' ('Cogito, ergo sum')?", 'correctAnswer': 'René Descartes'}, 
+'622a1c367cc59eab6f9503fe': {'question': 'What did the Romans build to convey water? ', 'correctAnswer': 'Aqueduct'}, 
+'622a1c367cc59eab6f9500ed': {'question': 'Who killed Goliath?', 'correctAnswer': 'David'}, 
+'622a1c367cc59eab6f950056': {'question': "Who Was Beaten By Muhammad Ali In The Bout Entitled 'The Thriller In Manilla'?", 'correctAnswer': 'Joe Frazier'}}
+Hintarna är: 
+[{'text': '\n\n{\n  \'622a1c357cc59eab6f94fd40\': {\n    \'question\': \'In which language does "Cerveza" mean beer?\',\n    \'hint\': \'It is a Romance language\'\n  },
+\n  \'622a1c357cc59eab6f94fd35\': {\n    \'question\': "Which philosopher famously said \'I think therefore I am\' (\'Cogito, ergo sum\')?",\n    \'hint\': \'He was a French philosopher\'\n  },
+\n  \'622a1c367cc59eab6f9503fe\': {\n    \'question\': \'What did the Romans build to convey water? \',\n    \'hint\': \'It starts with an "A"\'\n  },
+\n  \'622a1c367cc59eab6f9500ed\': {\n    \'question\': \'Who killed Goliath?\',\n    \'hint\': \'He was a young shepherd\'\n  },
+\n  \'622a1c367cc59eab6f950056\': {\n    \'question\': "Who Was Beaten By Muhammad Ali In The Bout Entitled \'The Thriller In Manilla\'?",\n    \'hint\': \'He was known as "Smokin Joe"\'\n  }\n}',
+ 'index': 0, 'logprobs': None, 'finish_reason': 'stop'}]
+Att skriva och hämta hintarna tog 8.610836505889893 sekunder.
+
+Frågorna är: 
+{'622a1c377cc59eab6f9504ee': {'question': 'What is Nanotribology the study of?', 'correctAnswer': 'friction at very small scale'}, 
+'622a1c3b7cc59eab6f951779': {'question': 'Which novel opens and closes with the letters of Robert Walton?', 'correctAnswer': 'Frankenstein'}, 
+'622a1c397cc59eab6f950e15': {'question': "Which author wrote 'The 120 Days of Sodom'?", 'correctAnswer': 'Marquis de Sade'}, 
+'623742b6cb85f7ce9e949de9': {'question': 'Ashgabat is the capital city of which country?', 'correctAnswer': 'Turkmenistan'}, 
+'62417d550f96c4efe8d773bc': {'question': 'Which of these is an American Football team based in New Orleans?', 'correctAnswer': 'New Orleans Saints'}}
+Hintarna är: 
+[{'text': '\n\n{\n  \'622a1c377cc59eab6f9504ee\': {\n    \'question\': \'What is Nanotribology the study of?\',\n    \'hint\': \'It is the study of friction at a very small scale\'\n  },
+\n  \'622a1c3b7cc59eab6f951779\': {\n    \'question\': \'Which novel opens and closes with the letters of Robert Walton?\',\n    \'hint\': \'It is a classic novel written by Mary Shelley\'\n  },
+\n  \'622a1c397cc59eab6f950e15\': {\n    \'question\': "Which author wrote \'The 120 Days of Sodom\'?",\n    \'hint\': \'It was written by a French author\'\n  },
+\n  \'623742b6cb85f7ce9e949de9\': {\n    \'question\': \'Ashgabat is the capital city of which country?\',\n    \'hint\': \'It is located in Central Asia\'\n  },
+\n  \'62417d550f96c4efe8d773bc\': {\n    \'question\': \'Which of these is an American Football team based in New Orleans?\',\n    \'hint\': \'It is a professional football team in the NFL\'\n  }\n}',
+ 'index': 0, 'logprobs': None, 'finish_reason': 'stop'}]
+Att skriva och hämta hintarna tog 8.856961727142334 sekunder.
+
+Frågorna är: 
+{'622a1c367cc59eab6f950039': {'question': 'With what sport is Gabriela Sabatini associated?', 'correctAnswer': 'Tennis'}, 
+'6355b7dbe8b368eed3a68230': {'question': 'In phonetics, which of these is an example of a fricative sound?', 'correctAnswer': "The th in 'think'"}, 
+'622a1c3a7cc59eab6f95138a': {'question': "In which book does 'Harun al-Rashid' appear?", 'correctAnswer': 'One Thousand and One Nights'}, 
+'622a1c367cc59eab6f950190': {'question': 'Which term refers to art that uses emphasis and distortion to communicate emotion?', 'correctAnswer': 'Expressionism'}, 
+'6243336dcfaae40c129613df': {'question': 'What is the word for a young cat?', 'correctAnswer': 'A Kitten'}}
+Hintarna är: 
+[{'text': '\n\n{\n  \'622a1c367cc59eab6f950039\': {\n    \'question\': \'With what sport is Gabriela Sabatini associated?\',\n    \'hint\': \'A sport played with a racket and a ball\'\n  },
+\n  \'6355b7dbe8b368eed3a68230\': {\n    \'question\': \'In phonetics, which of these is an example of a fricative sound?\',\n    \'hint\': \'A sound made by forcing air through a narrow channel\'\n  },
+\n  \'622a1c3a7cc59eab6f95138a\': {\n    \'question\': "In which book does \'Harun al-Rashid\' appear?",\n    \'hint\': \'A collection of Middle Eastern folk tales\'\n  },
+\n  \'622a1c367cc59eab6f950190\': {\n    \'question\': \'Which term refers to art that uses emphasis and distortion to communicate emotion?\',\n    \'hint\': \'A style of art popular in the early 20th century\'\n  },
+\n  \'6243336dcfaae40c129613df\': {\n    \'question\': \'What is the word for a young cat?\',\n    \'hint\': \'A baby animal\'\n  }\n}',
+'index': 0, 'logprobs': None, 'finish_reason': 'stop'}]
+Att skriva och hämta hintarna tog 10.263498306274414 sekunder.
+
+Frågorna är: 
+{'622a1c367cc59eab6f9502bb': {'question': 'What is the cocktail called, that consists of four parts of tequila to two parts of lemon or limejuice?', 'correctAnswer': 'Margarita\xa0'}, 
+'622a1c347cc59eab6f94facd': {'question': 'Who won the 2004 Academy Award for Best Leading Actor for playing the role of Ray Charles in Ray?', 'correctAnswer': 'Jamie Foxx'}, 
+'62611f854b176d54800e3d5f': {'question': 'In which year was the creation of the first artificial heart?', 'correctAnswer': '2015'}, 
+'622a1c357cc59eab6f94fcf7': {'question': "Which philosopher famously said 'To do as one would be done by, and to love one's neighbor as oneself, constitute the ideal perfection of utilitarian morality'?", 'correctAnswer': 'John Stuart Mill'}, 
+'622a1c397cc59eab6f950cf3': {'question': "Which English rock band released the album 'Magical Mystery Tour'?", 'correctAnswer': 'The Beatles'}}
+Hintarna är: 
+[{'text': "\n\n{'622a1c367cc59eab6f9502bb': {'hint': 'It is a type of Mexican cocktail'}, 
+\n'622a1c347cc59eab6f94facd': {'hint': 'He is an American actor, singer, and comedian'}, 
+\n'62611f854b176d54800e3d5f': {'hint': 'It was a recent year'}, 
+\n'622a1c357cc59eab6f94fcf7': {'hint': 'He was a British philosopher'}, 
+\n'622a1c397cc59eab6f950cf3': {'hint': 'They are a famous English rock band'}}",
+ 'index': 0, 'logprobs': None, 'finish_reason': 'stop'}]
+Att skriva och hämta hintarna tog 7.712683439254761 sekunder.
+
+Frågorna är: 
+{'622a1c377cc59eab6f95069b': {'question': 'Which actor has featued in films including The Shawshank Redemption and Mystic River?', 'correctAnswer': 'Tim Robbins'}, 
+'623387560161109f922aac1a': {'question': 'Which country developed Tae-Kwan-Do?', 'correctAnswer': 'Korea'}, 
+'622a1c387cc59eab6f950bab': {'question': "Which American rock band released the studio album 'Mechanical Animals'?", 'correctAnswer': 'Marilyn Manson'}, 
+'622a1c3a7cc59eab6f951349': {'question': 'Which art movement arose in reaction to the High Renaissance, featuring elongated, contorted poses, crowded canvases, and harsh lighting and coloring?', 'correctAnswer': 'Mannerism'}, 
+'622a1c357cc59eab6f94fd4f': {'question': 'With Which Instrument Is Les Paul Associated?', 'correctAnswer': 'Guitar'}}
+Hintarna är: 
+[{'text': "\n\n{'622a1c377cc59eab6f95069b': {'hint': 'This actor is known for his roles in films directed by Frank Darabont.'}, 
+'623387560161109f922aac1a': {'hint': 'This country is located in East Asia.'}, 
+'622a1c387cc59eab6f950bab': {'hint': 'This band is fronted by an American singer and songwriter.'}, 
+'622a1c3a7cc59eab6f951349': {'hint': 'This art movement was a reaction to the High Renaissance.'}, 
+'622a1c357cc59eab6f94fd4f': {'hint': 'This instrument is often used in rock music.'}}", 
+'index': 0, 'logprobs': None, 'finish_reason': 'stop'}]
+Att skriva och hämta hintarna tog 5.915843486785889 sekunder.
+
+Frågorna är: 
+{'62602ff44b176d54800e3d06': {'question': 'Tbilisi is a city in which country?', 'correctAnswer': 'Georgia'}, 
+'622a1c357cc59eab6f94ffe3': {'question': "Which Band Was Formed In The 1970's By Fomer Miles Davis Band Members Joe Zawinul & Wayne Shorter?", 'correctAnswer': 'Weather Report'}, 
+'626030354b176d54800e3d14': {'question': 'Casablanca is a city in which country?', 'correctAnswer': 'Morocco'}, 
+'622a1c377cc59eab6f9504e9': {'question': 'What is Neonatology the study of?', 'correctAnswer': 'diseases and the care of newborn infants; a branch of pediatrics/paediatrics'}, 
+'622a1c367cc59eab6f9500e4': {'question': 'Whose name did God change to Israel?', 'correctAnswer': 'Jacob'}}
+Hintarna är: 
+[{'text': '', 'index': 0, 'logprobs': None, 'finish_reason': 'stop'}]
+Att skriva och hämta hintarna tog 0.8449718952178955 sekunder.
+
+Frågorna är: 
+{'636a522e990390307063f37c': {'question': 'Which song was originally recorded by Rita Coolidge and was later covered by Sonic Youth?', 'correctAnswer': 'Superstar'}, 
+'622a1c377cc59eab6f950474': {'question': 'What is Tonology the study of?', 'correctAnswer': 'intonation in speech'}, 
+'62433459cfaae40c1296143a': {'question': 'A female hedgehog is known as what?', 'correctAnswer': 'A Sow'},
+ '62417d2d0f96c4efe8d773ac': {'question': 'Which of these is an American Football team based in Jacksonville?', 'correctAnswer': 'Jacksonville Jaguars'}, 
+'622a1c387cc59eab6f9507fa': {'question': 'The country of Vanuatu is on which continent?', 'correctAnswer': 'Oceania'}}
+Hintarna är: 
+[{'text': "\n\n{'636a522e990390307063f37c': {'hint': 'The song was written by Bonnie Bramlett and Leon Russell'}, 
+'622a1c377cc59eab6f950474': {'hint': 'It is related to linguistics'}, 
+'62433459cfaae40c1296143a': {'hint': 'It is a female mammal'}, 
+'62417d2d0f96c4efe8d773ac': {'hint': 'It is an NFL team'}, 
+'622a1c387cc59eab6f9507fa': {'hint': 'It is a group of islands in the Pacific Ocean'}}", 
+'index': 0, 'logprobs': None, 'finish_reason': 'stop'}]
+Att skriva och hämta hintarna tog 4.6899871826171875 sekunder.
+
+Frågorna är: 
+{'622a1c3b7cc59eab6f9515a7': {'question': 'How many standard bottles of champagne are in a magnum?', 'correctAnswer': 'Two\xa0'}, 
+'622a1c3a7cc59eab6f950fdd': {'question': 'Which science studies animal behaviour in natural habitats ?', 'correctAnswer': 'Ethology'}, 
+'622a1c3a7cc59eab6f951307': {'question': 'In what film does the HAL 9000 appear?', 'correctAnswer': '2001, A Space Odyssey'}, 
+'6242e830a22452794eaef206': {'question': 'What is the nickname of the English football team Newcastle United?', 'correctAnswer': 'The Magpies'},
+ '625fd67cdc0dd3b72da64cf4': {'question': 'In which year was The Silence of the Lambs released?', 'correctAnswer': '1991'}}
+Hintarna är: 
+[{'text': "\n\n{'622a1c3b7cc59eab6f9515a7': {'hint': 'A magnum is a larger size bottle than a standard bottle'}, 
+'622a1c3a7cc59eab6f950fdd': {'hint': 'This science is related to the study of animals in their natural environment'}, 
+'622a1c3a7cc59eab6f951307': {'hint': 'This is a classic science fiction movie'},
+ '6242e830a22452794eaef206': {'hint': 'This nickname is related to a type of bird'}, 
+'625fd67cdc0dd3b72da64cf4': {'hint': 'This movie was released in the early 1990s'}}",
+ 'index': 0, 'logprobs': None, 'finish_reason': 'stop'}]
+Att skriva och hämta hintarna tog 8.124352216720581 sekunder.
+
+Frågorna är: 
+{'622a1c367cc59eab6f950353': {'question': "Who Was Henry VIII's Third Wife?", 'correctAnswer': 'Jane Seymour'}, 
+'624db9d0de6018633d31f6a3': {'question': 'Who performed the theme song to the James Bond film Moonraker?', 'correctAnswer': 'Shirley Bassey'},
+ '622a1c357cc59eab6f94feef': {'question': "Which British musician released the album 'Station to Station'?", 'correctAnswer': 'David Bowie'},
+ '622a1c377cc59eab6f950587': {'question': 'What is Bibliology the study of?', 'correctAnswer': 'books, printing, and publishing; also called Bibliography'}, 
+'622a1c3a7cc59eab6f95131c': {'question': 'In Alice In Wonderland, who never stopped sobbing?', 'correctAnswer': 'The Mock Turtle'}}
+Hintarna är: 
+[{'text': "\n\n{'622a1c367cc59eab6f950353': {'hint': 'This wife was the mother of Edward VI'}, 
+'624db9d0de6018633d31f6a3': {'hint': 'This singer is known for her powerful voice'}, 
+'622a1c357cc59eab6f94feef': {'hint': 'This musician was known for his glam rock style'}, 
+'622a1c377cc59eab6f950587': {'hint': 'This is the study of books and their production'}, 
+'622a1c3a7cc59eab6f95131c': {'hint': 'This character was introduced in the second chapter'}}", 
+'index': 0, 'logprobs': None, 'finish_reason': 'stop'}]
+Att skriva och hämta hintarna tog 6.156149625778198 sekunder.

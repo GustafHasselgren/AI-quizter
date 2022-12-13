@@ -1,0 +1,185 @@
+Fråga: Which British band released the album 'Parachutes'? 
+ Hint: The band is well known for their hit single "Yellow". 
+ Svar: Coldplay 
+ Tid att hämta: 1.286208152770996 
+
+Fråga: In which country would you find the Ancient City of Bagan? 
+ Hint: The correct answer is located in Southeast Asia. 
+ Svar: Myanmar 
+ Tid att hämta: 1.1519887447357178 
+
+Fråga: What Does Dracula Mean? 
+ Hint: The correct answer is a phrase in another language. 
+ Svar: Son of the Dragon 
+ Tid att hämta: 1.0357427597045898 
+
+Fråga: Who Was Prime Minister When King Edward VIII Abdicated? 
+ Hint: The answer is a former Prime Minister of the United Kingdom. 
+ Svar: Stanley Baldwin 
+ Tid att hämta: 0.9654769897460938 
+
+Fråga: Frankfort is the capital of which US state? 
+ Hint: The correct answer is a US state located in the eastern part of the country. 
+ Svar: Kentucky 
+ Tid att hämta: 1.0980956554412842 
+
+Fråga: How Many Pairs of Chromosomes Does The Average Human Have? 
+ Hint: The answer is related to biology and anatomy. 
+ Svar: 23 
+ Tid att hämta: 1.2322499752044678 
+
+Fråga: Which sauce is named after a river and state in Mexico? 
+ Hint: This sauce is a popular condiment used to add flavor to dishes. 
+ Svar: Tabasco  
+ Tid att hämta: 1.3554389476776123 
+
+Fråga: Which philosopher famously said 'There is only one thing a philosopher can be relied upon to do, and that is to contradict other philosophers'? 
+ Hint: The philosopher was an American. 
+ Svar: William James 
+ Tid att hämta: 1.9405865669250488 
+
+Fråga: What is the plot of the movie 12 Years a Slave? 
+ Hint: The plot involves a person being taken against their will and sold into slavery. 
+ Svar: A free black man from upstate New York is abducted and sold. 
+ Tid att hämta: 0.9917492866516113 
+
+Fråga: What is the capital city of Benin? 
+ Hint: The capital city is located on the coast of West Africa. 
+ Svar: Porto-Novo 
+ Tid att hämta: 1.190331220626831 
+
+Fråga: What would you call a baby clam? 
+ Hint: The correct answer is a type of animal. 
+ Svar: A Larva 
+ Tid att hämta: 0.9385514259338379 
+
+Fråga: Which of these quotes is from the film 'Shutter Island'? 
+ Hint: The quote is from the film "Shutter Island". 
+ Svar: "Which would be worse, to live a monster or die as a good man?" 
+ Tid att hämta: 1.400836706161499 
+
+Fråga: Which author wrote 'Ozymandias'? 
+ Hint: The correct answer is a poet. 
+ Svar: Percy Bysshe Shelley 
+ Tid att hämta: 1.0517027378082275 
+
+Fråga: The language 'Burmese' belongs to which language family? 
+ Hint: The correct answer is not an Austronesian, Indo-European, or Kra–Dai language. 
+ Svar: Sino-Tibetan 
+ Tid att hämta: 1.5987906455993652 
+
+Fråga: What is the common name for sodium hydroxide? 
+ Hint: The correct answer is an alkaline substance. 
+ Svar: Caustic soda 
+ Tid att hämta: 0.8627529144287109 
+
+Fråga: Which author wrote 'The Wild Swans'? 
+ Hint: This author wrote many fairy tales. 
+ Svar: Hans Christian Andersen 
+ Tid att hämta: 1.0148005485534668 
+
+Fråga: What Is The Sound Producing Equipment Element Of Many Woodwind Instrument Called? 
+ Hint: The correct answer is related to a part of a woodwind instrument. 
+ Svar: The Reed 
+ Tid att hämta: 1.1430039405822754 
+
+Fråga: Which author wrote 'The Godfather'? 
+ Hint: The author wrote a novel that was made into a famous movie. 
+ Svar: Mario Puzo 
+ Tid att hämta: 1.102086067199707 
+
+Fråga: Which of these countries borders Mexico? 
+ Hint: The correct answer is located in North America. 
+ Svar: United States of America 
+ Tid att hämta: 0.8537161350250244 
+
+Fråga: With which sport is Hicham El Guerrouj associated? 
+ Hint: Hint: This person is a world-record holder in a track and field event. 
+ Svar: Athletics 
+ Tid att hämta: 1.1479876041412354 
+
+Fråga: Which author wrote 'The Final Problem'? 
+ Hint: Hint: He is most famous for creating a character who is a detective. 
+ Svar: Arthur Conan Doyle 
+ Tid att hämta: 1.1953685283660889 
+
+Fråga: The country of Grenada is on which continent? 
+ Hint: The correct answer is on the same continent as the United States. 
+ Svar: North America 
+ Tid att hämta: 1.3983287811279297 
+
+Fråga: Which artist painted "Royal Red and Blue" 
+ Hint: The artist is an American painter. 
+ Svar: Mark Rothko 
+ Tid att hämta: 0.8801612854003906 
+
+Fråga: Which influential historical person was a religious prophet? 
+ Hint: This person is known as the founder of the religion of Zoroastrianism. 
+ Svar: Zoroaster 
+ Tid att hämta: 1.075190782546997 
+
+Fråga: To where do Muslims make pilgrimage? 
+ Hint: The correct answer is a city located in Saudi Arabia. 
+ Svar: Mecca 
+ Tid att hämta: 1.0257728099822998 
+
+Fråga: Which of these countries borders Zimbabwe? 
+ Hint: The correct answer is one of the countries in Southern Africa. 
+ Svar: Botswana 
+ Tid att hämta: 1.1918625831604004 
+
+Fråga: What is Teratology the study of? 
+ Hint: The study of something related to the creation of something unusual. 
+ Svar: wonders, or monsters 
+ Tid att hämta: 1.0083248615264893 
+
+Fråga: Which island country lies to the West of Australia? 
+ Hint: The correct answer is an island country located in the Indian Ocean. 
+ Svar: Mauritius 
+ Tid att hämta: 1.065654993057251 
+
+Fråga: Which philosopher famously said 'History is Philosophy teaching by examples'? 
+ Hint: The correct answer is from Ancient Greece. 
+ Svar: Thucydides 
+ Tid att hämta: 1.0048472881317139 
+
+Fråga: The old Roman province of Lusitania is now called ____________.  
+ Hint: The answer is a country located in Europe. 
+ Svar: Portugal 
+ Tid att hämta: 0.8896825313568115 
+
+Fråga: Who was the monarch of England during the time period 1399-1413? 
+ Hint: The monarch reigned during the Middle Ages. 
+ Svar: Henry IV 
+ Tid att hämta: 1.0252892971038818 
+
+Fråga: Which film won the Academy Award for Best Picture in 2000? 
+ Hint: The correct answer is a movie starring Russell Crowe. 
+ Svar: Gladiator 
+ Tid att hämta: 1.1693997383117676 
+
+Fråga: From which plant is the poison ricin obtained? 
+ Hint: This plant is found in the Mediterranean region. 
+ Svar: The Castor Bean Plant 
+ Tid att hämta: 0.9729471206665039 
+
+Fråga: What treaty, signed in 1713, ended the War of the Spanish Succession? 
+ Hint: The treaty ended a war in the early 1700's. 
+ Svar: Treaty of Utrecht 
+ Tid att hämta: 0.9414834976196289 
+
+Fråga: What Is A Female Goat Called? 
+ Hint: A female goat is not named after a person. 
+ Svar: A Nanny 
+ Tid att hämta: 1.1250052452087402 
+
+Fråga: Which film contains the character 'The Dude'? 
+ Hint: The film is a cult classic directed by the Coen Brothers. 
+ Svar: The Big Lebowski 
+ Tid att hämta: 0.9754316806793213 
+
+Fråga: Which artist first recorded 'Respect', which was later covered by Aretha Franklin? 
+ Hint: Hint: This artist was a popular soul singer in the 1960s. 
+ Svar: Otis Redding 
+ Tid att hämta: 1.1075832843780518 
+

@@ -1,0 +1,26 @@
+Ny hämtning: 
+Fråga: A female sea lion is known as what? 
+ Hint:  
+ Svar: A Cow 
+ Tid att hämta: 0.653784990310669 
+
+Fråga: In which Shakespearean tragedy Does Laertes appear? 
+ Hint:  
+ Svar: Hamlet 
+ Tid att hämta: 0.6088881492614746 
+
+Fråga: Which of these colors is included on the flag of Cuba? 
+ Hint:  
+ Svar: Blue 
+ Tid att hämta: 0.604156494140625 
+
+Fråga: Which of these dishes would you most expect to find in Equatorial Guinea? 
+ Hint:  
+ Svar: Succotash 
+ Tid att hämta: 0.5625154972076416 
+
+Fråga: Which American musician released the album 'Triplicate'? 
+ Hint:  
+ Svar: Bob Dylan 
+ Tid att hämta: 0.5994248390197754 
+

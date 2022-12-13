@@ -1,0 +1,218 @@
+Ny hämtning: 
+Fråga: With which sport is Al Oerter associated? 
+ Hint: Hint: This sport involves running, jumping, and throwing. 
+ Svar: Athletics 
+ Tid att hämta: 1.3111076354980469 
+
+Fråga: Which song, originally recorded by Aerosmith, was later covered by Run-DMC? 
+ Hint: Hint: This song was famously covered by Run-DMC and was originally recorded by a popular American rock band. 
+ Svar: Walk This Way 
+ Tid att hämta: 1.4880497455596924 
+
+Fråga: Which film won the Academy Award for Best Picture in 1975? 
+ Hint: This film was directed by Milos Forman and starred Jack Nicholson. 
+ Svar: One Flew over the Cuckoo's Nest 
+ Tid att hämta: 1.1575465202331543 
+
+Fråga: Which author wrote 'Mary Stuart'? 
+ Hint: This author wrote plays and poems, and was a contemporary of Johann Wolfgang von Goethe. 
+ Svar: Friedrich Schiller 
+ Tid att hämta: 1.3683698177337646 
+
+Fråga: Which author wrote 'Cendrillon'? 
+ Hint: This author is known for writing fairy tales. 
+ Svar: Charles Perrault 
+ Tid att hämta: 1.0305469036102295 
+
+Fråga: Aladdin was released in which year? 
+ Hint: The year is in the early 1990s. 
+ Svar: 1992 
+ Tid att hämta: 4.082827091217041 
+
+Fråga: Which country's flag fits the description of 'Red with a white cross that extends to the edges.'? 
+ Hint: The flag in question is a European country. 
+ Svar: Denmark 
+ Tid att hämta: 1.0976650714874268 
+
+Fråga: Which of these colors would you find on the flag of Bolivia? 
+ Hint: The flag of Bolivia is a combination of two colors. 
+ Svar: Red 
+ Tid att hämta: 1.2588348388671875 
+
+Fråga: Which of these is a hockey team based in San Jose? 
+ Hint: Hint: This team plays in the National Hockey League (NHL). 
+ Svar: San Jose Sharks 
+ Tid att hämta: 1.2817072868347168 
+
+Fråga: Which author wrote 'Treasure Island'? 
+ Hint: The author wrote a famous story involving pirates. 
+ Svar: Robert Louis Stevenson 
+ Tid att hämta: 1.195343255996704 
+
+Fråga: Which Roman God was the equivalent of the Greek God Dionysus? 
+ Hint: Hint: This Roman God is associated with wine and festivities. 
+ Svar: Bacchus 
+ Tid att hämta: 1.0385222434997559 
+
+Fråga: The language 'Southern Pashto' belongs to which language family? 
+ Hint: Hint: This language family is the most widely spoken in the world. 
+ Svar: Indo-European 
+ Tid att hämta: 1.0636746883392334 
+
+Fråga: Which author wrote 'The Name of the Rose'? 
+ Hint: This author wrote a book which is set in a medieval monastery and has a title that is also a flower. 
+ Svar: Umberto Eco 
+ Tid att hämta: 2.3030409812927246 
+
+Fråga: Which country does one associate with 'Kasutera'? 
+ Hint: This country is known for its sushi, sashimi, and tempura. 
+ Svar: Japan  
+ Tid att hämta: 1.1634526252746582 
+
+Fråga: Which of these countries has red on its flag? 
+ Hint: The flag of this country has a red, white, and black color scheme. 
+ Svar: Egypt 
+ Tid att hämta: 1.0716886520385742 
+
+Ny hämtning: 
+Fråga: With which sport is Al Oerter associated? 
+ Hint: This sport involves running, jumping, and throwing. 
+ Svar: Athletics 
+ Tid att hämta: 0.8048741817474365 
+
+Fråga: Which song, originally recorded by Aerosmith, was later covered by Run-DMC? 
+ Hint: Hint: This song was recorded by two different musical groups. 
+ Svar: Walk This Way 
+ Tid att hämta: 1.0262959003448486 
+
+Fråga: Which film won the Academy Award for Best Picture in 1975? 
+ Hint: This film was directed by an Academy Award-winning director, starred Jack Nicholson, and was based on a novel by the same name. 
+ Svar: One Flew over the Cuckoo's Nest 
+ Tid att hämta: 1.3900413513183594 
+
+Fråga: Which author wrote 'Mary Stuart'? 
+ Hint: This author was a German poet, philosopher, historian, and dramatist. 
+ Svar: Friedrich Schiller 
+ Tid att hämta: 1.0252723693847656 
+
+Fråga: Which author wrote 'Cendrillon'? 
+ Hint: This author was a French poet and author who lived during the 17th century. 
+ Svar: Charles Perrault 
+ Tid att hämta: 0.9485135078430176 
+
+Fråga: Aladdin was released in which year? 
+ Hint: The year is around the time of the early 90s. 
+ Svar: 1992 
+ Tid att hämta: 1.0063259601593018 
+
+Fråga: Which country's flag fits the description of 'Red with a white cross that extends to the edges.'? 
+ Hint: This small Northern European country is known for its high quality of life and its capital city, Copenhagen. 
+ Svar: Denmark 
+ Tid att hämta: 1.3131155967712402 
+
+Fråga: Which of these colors would you find on the flag of Bolivia? 
+ Hint: The flag of Bolivia contains three vertical stripes of different colors. 
+ Svar: Red 
+ Tid att hämta: 1.1314806938171387 
+
+Fråga: Which of these is a hockey team based in San Jose? 
+ Hint: Hint: This team is part of the National Hockey League. 
+ Svar: San Jose Sharks 
+ Tid att hämta: 1.1683835983276367 
+
+Fråga: Which author wrote 'Treasure Island'? 
+ Hint: Hint: This author wrote a famous novel about pirates. 
+ Svar: Robert Louis Stevenson 
+ Tid att hämta: 1.0572028160095215 
+
+Fråga: Which Roman God was the equivalent of the Greek God Dionysus? 
+ Hint: The god in question is associated with wine and revelry. 
+ Svar: Bacchus 
+ Tid att hämta: 1.068192720413208 
+
+Fråga: The language 'Southern Pashto' belongs to which language family? 
+ Hint: Hint: This language family includes most of the languages spoken in Europe. 
+ Svar: Indo-European 
+ Tid att hämta: 1.1635761260986328 
+
+Fråga: Which author wrote 'The Name of the Rose'? 
+ Hint: This author wrote novels as well as non-fiction works, and is known for his works of semiotics. 
+ Svar: Umberto Eco 
+ Tid att hämta: 1.3559250831604004 
+
+Fråga: Which country does one associate with 'Kasutera'? 
+ Hint: The cuisine of this country is known for its light, airy sponge cake. 
+ Svar: Japan  
+ Tid att hämta: 1.3235104084014893 
+
+Fråga: Which of these countries has red on its flag? 
+ Hint: This country is located in the continent of Africa. 
+ Svar: Egypt 
+ Tid att hämta: 1.2447102069854736 
+
+Ny hämtning: 
+Fråga: With which sport is Al Oerter associated? 
+ Hint: The sport associated with Al Oerter is a track and field event. 
+ Svar: Athletics 
+ Tid att hämta: 1.1680934429168701 
+
+Fråga: Which song, originally recorded by Aerosmith, was later covered by Run-DMC? 
+ Hint: Hint: This song is a classic rock song that has been covered by two iconic music groups. 
+ Svar: Walk This Way 
+ Tid att hämta: 1.3130254745483398 
+
+Fråga: Which film won the Academy Award for Best Picture in 1975? 
+ Hint: This Academy Award-winning film is based on a novel by Ken Kesey that was published in 1962. 
+ Svar: One Flew over the Cuckoo's Nest 
+ Tid att hämta: 1.374398946762085 
+
+Fråga: Which author wrote 'Mary Stuart'? 
+ Hint: This author was a German poet and playwright. 
+ Svar: Friedrich Schiller 
+ Tid att hämta: 1.075636863708496 
+
+Fråga: Which author wrote 'Cendrillon'? 
+ Hint: This author was born in Paris in 1628 and is known for his folk tales. 
+ Svar: Charles Perrault 
+ Tid att hämta: 1.1546461582183838 
+
+Fråga: Aladdin was released in which year? 
+ Hint: The answer is in the 1990s. 
+ Svar: 1992 
+ Tid att hämta: 0.8432822227478027 
+
+Fråga: Which country's flag fits the description of 'Red with a white cross that extends to the edges.'? 
+ Hint: The flag has a red background with a white cross that covers the entire flag. 
+ Svar: Denmark 
+ Tid att hämta: 1.0926156044006348 
+
+Fråga: Which of these colors would you find on the flag of Bolivia? 
+ Hint: The flag of Bolivia is often seen in public places. 
+ Svar: Red 
+ Tid att hämta: 0.8513014316558838 
+
+Fråga: Which Roman God was the equivalent of the Greek God Dionysus? 
+ Hint: This Roman God is associated with wine, revelry, and fertility. 
+ Svar: Bacchus 
+ Tid att hämta: 1.1803932189941406 
+
+Fråga: The language 'Southern Pashto' belongs to which language family? 
+ Hint: The language family includes languages such as English, German, and French. 
+ Svar: Indo-European 
+ Tid att hämta: 1.042212963104248 
+
+Fråga: Which author wrote 'The Name of the Rose'? 
+ Hint: Hint: This author is an Italian novelist, philosopher, literary critic, and semiotician. 
+ Svar: Umberto Eco 
+ Tid att hämta: 1.2825913429260254 
+
+Fråga: Which country does one associate with 'Kasutera'? 
+ Hint: This country is known for its culture, art, and cuisine. 
+ Svar: Japan  
+ Tid att hämta: 1.0771703720092773 
+
+Fråga: Which of these countries has red on its flag? 
+ Hint: The flag of this country has a color similar to the color of the desert. 
+ Svar: Egypt 
+ Tid att hämta: 1.39194917678833 
+

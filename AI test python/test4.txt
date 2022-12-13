@@ -1,0 +1,150 @@
+Fråga: What is the word for a young grasshopper? 
+ Hint: Hint: This type of creature is an insect. 
+ Svar: A Nymph 
+ Tid att hämta: 1.3005940914154053 
+
+Fråga: The country of Saint Lucia is on which continent? 
+ Hint: This continent is composed of 23 countries and is home to the United States and Canada. 
+ Svar: North America 
+ Tid att hämta: 1.4377706050872803 
+
+Fråga: The iconic song 'Vogue' was a hit by which musician? 
+ Hint: This artist has been referred to as the "Queen of Pop" and has had a long and successful career in the music industry. 
+ Svar: Madonna 
+ Tid att hämta: 1.5718438625335693 
+
+Fråga: In which story does the schoolboy "Piggy" star? 
+ Hint: This book was written by William Golding in 1954. 
+ Svar: Lord of the Flies 
+ Tid att hämta: 1.2648422718048096 
+
+Fråga: In which organ is a clear watery solution known as the 'aqueous humor' found? 
+ Hint: Hint: This organ is responsible for providing a clear image of the world around us. 
+ Svar: Eye 
+ Tid att hämta: 1.178170919418335 
+
+Fråga: Which author wrote 'The Fault in Our Stars'? 
+ Hint: Hint: This author wrote a book that was made into a movie. 
+ Svar: John Green 
+ Tid att hämta: 1.089595079421997 
+
+Fråga: What is Paleoecology the study of? 
+ Hint: Hint: This field of science involves studying the past. 
+ Svar: prehistoric environments by analyzing fossils and rock strata 
+ Tid att hämta: 1.169926404953003 
+
+Fråga: Which song begins with the lyrics: "I hurt myself today / To see if I still feel / I focus on the pain / The only thing that's real..."? 
+ Hint: Hint: The song is by an alternative rock band from the 90s. 
+ Svar: "Hurt" by Nine Inch Nails 
+ Tid att hämta: 1.0294477939605713 
+
+Fråga: Which of these cities is in Australia? 
+ Hint: Hint: This city is the capital of Western Australia. 
+ Svar: Perth 
+ Tid att hämta: 1.5354697704315186 
+
+Fråga: Which author wrote 'Harry Potter and the Deathly Hallows'? 
+ Hint: Hint: This author is known for creating a world of magic and wizardry. 
+ Svar: J. K. Rowling 
+ Tid att hämta: 1.0565171241760254 
+
+Fråga: Which metal was invented by British metallurgist Harold Brearley in 1912? 
+ Hint: Hint: This metal is used in many kitchen and bathroom appliances. 
+ Svar: Stainless Steel 
+ Tid att hämta: 0.9904141426086426 
+
+Fråga: Which author wrote 'Bouvard et Pécuchet'? 
+ Hint: Hint: He is a French writer best known for his novel 'Madame Bovary' 
+ Svar: Gustave Flaubert 
+ Tid att hämta: 1.542433500289917 
+
+Fråga: With which sport is Alex Ferguson associated? 
+ Hint: Hint: This sport is usually played with an oval-shaped ball. 
+ Svar: Football 
+ Tid att hämta: 0.9328145980834961 
+
+Fråga: Which actor has played roles in films including Harry Potter and the Chamber of Secrets and Murder on the Orient Express? 
+ Hint: This actor has appeared in many popular films and is from Northern Ireland. 
+ Svar: Kenneth Branagh 
+ Tid att hämta: 1.0372872352600098 
+
+Fråga: Which European capital city stands on the Manzanares River? 
+ Hint: Hint: This capital city is the largest in Spain. 
+ Svar: Madrid  
+ Tid att hämta: 1.0567381381988525 
+
+Fråga: Which philosopher famously said 'If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things'? 
+ Hint: Hint: This philosopher is often referred to as the "Father of Modern Philosophy". 
+ Svar: René Descartes 
+ Tid att hämta: 1.4042658805847168 
+
+Fråga: Gaborone is the capital city of which country? 
+ Hint: Hint: This country is located in southern Africa. 
+ Svar: Botswana 
+ Tid att hämta: 1.0093634128570557 
+
+Fråga: Who was the first Norman King of England? 
+ Hint: Hint: He was the first Norman King of England. 
+ Svar: William 
+ Tid att hämta: 1.2063267230987549 
+
+Fråga: How would you say 'house wine' in Italian? 
+ Hint: Hint: The correct answer starts with "Vino della" 
+ Svar: Vino della casa  
+ Tid att hämta: 1.096069097518921 
+
+Fråga: Zagreb is the capital city of which country? 
+ Hint: This country is located in Central Europe and borders Hungary, Serbia, Bosnia and Herzegovina, and Slovenia. 
+ Svar: Croatia 
+ Tid att hämta: 1.5075798034667969 
+
+Fråga: In which year was the the contraceptive pill first approved for use? 
+ Hint: Hint: This event took place during the 20th century. 
+ Svar: 1960 
+ Tid att hämta: 1.3057293891906738 
+
+Fråga: Who plays the role of Hope Van Dyne in the Marvel Cinematic Universe? 
+ Hint: Hint: This actress is best known for her role as Kate Austen in the television series Lost. 
+ Svar: Evangeline Lilly 
+ Tid att hämta: 1.3434977531433105 
+
+Fråga: Which influential philosopher and mathematician famously said “I think, therefore I am.”? 
+ Hint: Hint: This philosopher is known for his contributions to the field of mathematics, and is widely considered to be the father of modern philosophy. 
+ Svar: Rene Descartes 
+ Tid att hämta: 1.5509188175201416 
+
+Fråga: What is the capital city of Chad? 
+ Hint: Hint: This capital city is located in central Africa. 
+ Svar: N'Djamena 
+ Tid att hämta: 1.1105449199676514 
+
+Fråga: In the Dr Seuss books, which elephant hatched an egg? 
+ Hint: The answer is a character from a Dr Seuss book. 
+ Svar: Horton 
+ Tid att hämta: 1.1379907131195068 
+
+Fråga: Havana is the capital city of which country? 
+ Hint: This country is located in the Caribbean Sea. 
+ Svar: Cuba 
+ Tid att hämta: 0.8866493701934814 
+
+Fråga: What is the word for a group of larks? 
+ Hint: Hint: It is a type of bird group. 
+ Svar: An exaltation 
+ Tid att hämta: 1.104590654373169 
+
+Fråga: The pasta radiatori has what meaning in Italian? 
+ Hint: The answer is a word in Italian that describes a type of pasta. 
+ Svar: Radiator 
+ Tid att hämta: 1.0590457916259766 
+
+Fråga: Who won the 1975 Academy Award for Best Leading Actress for playing the role of Nurse Mildred Ratched in One Flew over the Cuckoo's Nest? 
+ Hint: Hint: This actress is an American and won the Academy Award in the 1970s. 
+ Svar: Louise Fletcher 
+ Tid att hämta: 1.1977946758270264 
+
+Fråga: According to the Bible who is Jesus's father? 
+ Hint: Hint: Jesus was born of a ___________ father. 
+ Svar: God 
+ Tid att hämta: 1.073185920715332 
+

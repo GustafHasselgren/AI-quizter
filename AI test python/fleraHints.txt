@@ -1,0 +1,36 @@
+Fråga: What is the word for a group of nightingales? 
+ Hint: The correct answer is an object that is often used to tell time. 
+ Svar: A watch 
+ Tid att hämta: 1.2708051204681396 
+Ny hint: This group of birds is associated with a certain type of music. 
+Ny hint: Hint: 
+-The correct answer is something that is often used to measure the passing of time. 
+
+Fråga: What is a scientist who studies reptiles and amphibians known as? 
+ Hint: Hint: This type of scientist would study animals with both scales and skin. 
+ Svar: Herpetologist 
+ Tid att hämta: 1.1634340286254883 
+Ny hint: Hint: This type of scientist specializes in a specific type of animal. 
+Ny hint: Hint: This type of scientist studies a certain class of animals that includes both snakes and frogs. 
+
+Fråga: Which author wrote 'The Phantom of the Opera'? 
+ Hint: This author was a French journalist and novelist who was known for his mystery and detective stories. 
+ Svar: Gaston Leroux 
+ Tid att hämta: 1.3558895587921143 
+Ny hint: This author wrote other famous works such as 'The Mystery of the Yellow Room' and 'The Perfume of the Lady in Black'. 
+Ny hint: This author is best known for a work of fiction that has been adapted into multiple plays, movies, and TV series. 
+
+Fråga: The language 'Chhattisgarhi' belongs to which language family? 
+ Hint: This language family is the most widely-spoken language family in the world. 
+ Svar: Indo-European 
+ Tid att hämta: 1.0128331184387207 
+Ny hint: This language family includes languages such as English, Spanish, and German. 
+Ny hint: This language family is believed to have originated in the area of what is now known as the Russian steppes. 
+
+Fråga: Where in the world are avocados originally from? 
+ Hint: This fruit is native to a continent known for its rainforest and tropical climate. 
+ Svar: South America 
+ Tid att hämta: 1.01432204246521 
+Ny hint: This fruit is native to a continent that is home to many Spanish-speaking countries. 
+Ny hint: This fruit is native to a continent that is home to the Andes mountain range. 
+
