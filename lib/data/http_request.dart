@@ -3,14 +3,15 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'settings.dart';
 import 'question.dart';
+import 'package:template/auth/top_secret.dart';
 
 class HttpConection {
   late Settings settings;
   final String url = 'https://the-trivia-api.com/api/questions';
   // Huge thanks to Will Fry who created this open API!
 
-  final String openAIKey =
-      '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';
+  //
+  final String openAiKey = myOpenAiKey;
   final String aiUrl = 'https://api.openai.com/v1/completions';
 
   Map<String, String> listCategories = {
@@ -76,20 +77,20 @@ class HttpConection {
 
   Future getHint(Question question) async {
     Map<String, String> headers = {
-      'Authorization': 'Bearer $openAIKey',
-      'Content-Type': 'application/json'
+      'Authorization': 'Bearer $openAiKey',
+      'Content-Type': 'Application/json'
     };
 
     String stringQuestion = question.question;
     String answer = question.correctAnswer;
 
-    Map<String, String> body = {
+    String body = jsonEncode({
       'model': 'text-davinci-003',
       'prompt':
           'Give a hint to the question. DO NOT include the correct answer in the hint. Question: $stringQuestion. Correct answer: $answer',
-      'temperature': '0.6',
-      'max_tokens': '50'
-    };
+      'temperature': 0.6,
+      'max_tokens': 50
+    });
 
     http.Response response =
         await http.post(Uri.parse(aiUrl), headers: headers, body: body);
@@ -98,27 +99,28 @@ class HttpConection {
       String hint = data['choices'][0]['text'];
       return hint;
     } else {
-      return 'Something went wrong.';
+      print(response.headers);
+      return 'Something went wrong. ${response.statusCode.toString()}';
     }
   }
 
   Future getFurtherHint(Question question, List<String> previousHints) async {
     Map<String, String> headers = {
-      'Authorization': 'Bearer $openAIKey',
-      'Content-Type': 'application/json'
+      'Authorization': 'Bearer $openAiKey',
+      'Content-Type': 'Application/json'
     };
 
     String stringQuestion = question.question;
     String answer = question.correctAnswer;
     List<String> hints = previousHints;
 
-    Map<String, String> body = {
+    String body = jsonEncode({
       'model': 'text-davinci-003',
       'prompt':
           'Give a hint to the question. DO NOT include the correct answer in the hint. Question: $stringQuestion. Correct answer: $answer. DO NOT include these hints: $hints',
-      'temperature': '0.6',
-      'max_tokens': '50'
-    };
+      'temperature': 0.6,
+      'max_tokens': 50
+    });
 
     http.Response response =
         await http.post(Uri.parse(aiUrl), headers: headers, body: body);
@@ -127,7 +129,8 @@ class HttpConection {
       String hint = data['choices'][0]['text'];
       return hint;
     } else {
-      return 'Something went wrong.';
+      print(response.body);
+      return 'Something went wrong. ${response.statusCode.toString()}';
     }
   }
 }

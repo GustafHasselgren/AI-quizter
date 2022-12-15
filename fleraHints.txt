@@ -1,0 +1,35 @@
+Fråga: Which country hosted the 1950 FIFA World Cup? 
+ Hint: Hint: This World Cup was the first one held after World War II. 
+ Svar: Brazil 
+ Tid att hämta: 1.234565019607544 
+Ny hint: Hint: This country is the most successful in World Cup history. 
+Ny hint: Hint: This country is located in South America. 
+
+Fråga: In which book does 'Solomon in Islam' appear? 
+ Hint: This book is a collection of Middle Eastern and South Asian stories and folk tales compiled in Arabic during the Islamic Golden Age. 
+ Svar: One Thousand and One Nights 
+ Tid att hämta: 2.1515393257141113 
+Ny hint:  
+Ny hint: This book is a classic collection of stories that is still popular today. 
+
+Fråga: Which word is defined as 'a person, typically a child, in ragged dirty clothes'? 
+ Hint: The correct answer is a type of person. 
+ Svar: Ragamuffin 
+ Tid att hämta: 1.2400097846984863 
+Ny hint: The correct answer is a type of word used to describe someone. 
+Ny hint: The correct answer is a word that describes a person who is typically a child and is wearing ragged, dirty clothes. 
+
+Fråga: Which actor has featued in films including Birdman and King Kong? 
+ Hint: This actor is known for their roles in King Kong and Birdman, which won the Academy Award for Best Picture in 2014. 
+ Svar: Naomi Watts 
+ Tid att hämta: 1.4389398097991943 
+Ny hint: This actor is known for their roles in a variety of films and has been nominated for several awards. 
+Ny hint: Hint: This actor has been nominated for numerous awards, including an Academy Award. 
+
+Fråga: Which of these quotes is from the film 'Inglourious Basterds'? 
+ Hint: Hint: The quote is said by a character in a Nazi tavern. 
+ Svar: "That’s a bingo!" 
+ Tid att hämta: 1.5397698879241943 
+Ny hint: Hint: The quote is said by a character in a scene involving a game of chance. 
+Ny hint: Hint: The quote is said by a character in a scene involving a Nazi officer. 
+

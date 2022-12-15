@@ -1,7 +1,7 @@
 import requests
 import time
 
-openAIKey = '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'
+openAIKey = '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'
 
 openAIHeaders = {
     'Authorization': 'Bearer '+ openAIKey

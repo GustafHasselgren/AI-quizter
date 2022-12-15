@@ -3,9 +3,11 @@ import 'package:flutter/material.dart';
 import 'package:circular_countdown_timer/circular_countdown_timer.dart';
 import 'package:provider/provider.dart';
 import 'package:template/components/card.dart';
+import 'package:template/components/custom_button.dart';
 import 'package:template/components/displayCard.dart';
 import 'package:template/components/endgamebutton.dart';
 import 'package:template/data/game_session.dart';
+import 'package:template/data/hint.dart';
 
 import 'dart:math' as math;
 
@@ -35,9 +37,27 @@ class QuestionView extends StatelessWidget {
               ],
             ),
             const Spacer(),
-            Text(
-              "Question ${gameSession.questionCounter + 1}/${gameSession.gameQuestions.length}",
-              style: Themes.textStyle.headline3,
+            Row(
+              children: [
+                Text(
+                  "Question ${gameSession.questionCounter + 1}/${gameSession.gameQuestions.length}",
+                  style: Themes.textStyle.headline3,
+                ),
+                CustomButton(
+                    text: const Text('Hint'),
+                    onPressed: (() {
+                      Provider.of<Hint>(context, listen: false).fetchHint(
+                          Provider.of<GameSession>(context, listen: false)
+                              .currentQuestion);
+                      showDialog(
+                          context: context,
+                          builder: ((BuildContext context) =>
+                              const HintDialog()));
+                    }),
+                    width: 60,
+                    height: 40,
+                    color: Themes.colors.red),
+              ],
             ),
             const SizedBox(height: 10),
             SizedBox(
@@ -149,5 +169,50 @@ class _CountDownTimerState extends State<CountDownTimer> {
         ],
       );
     }
+  }
+}
+
+class HintDialog extends StatelessWidget {
+  const HintDialog({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return AlertDialog(
+        backgroundColor: Themes.colors.white,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+        contentPadding: const EdgeInsets.all(15),
+        actionsPadding: const EdgeInsets.all(15),
+        title: Text(
+          "Here's your hint! Beware, this does cost you some points.",
+          style: TextStyle(color: Themes.colors.red),
+        ),
+        content: Text(Provider.of<Hint>(context).hint),
+        actions: [
+          Row(
+            children: [
+              CustomButton(
+                  text: Text('New hint', style: Themes.textStyle.headline3),
+                  onPressed: () {
+                    Provider.of<Hint>(context, listen: false).fetchFurtherHint(
+                        Provider.of<GameSession>(context, listen: false)
+                            .currentQuestion,
+                        Provider.of<Hint>(context, listen: false)
+                            .previousHints);
+                  },
+                  width: 100,
+                  height: 50,
+                  color: Themes.colors.blueDark),
+              const Spacer(),
+              CustomButton(
+                  text: Text('Close', style: Themes.textStyle.headline3),
+                  onPressed: () {
+                    Navigator.of(context).pop();
+                  },
+                  width: 100,
+                  height: 50,
+                  color: Themes.colors.blueDark),
+            ],
+          )
+        ]);
   }
 }
