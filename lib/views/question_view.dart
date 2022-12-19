@@ -43,8 +43,10 @@ class QuestionView extends StatelessWidget {
                   "Question ${gameSession.questionCounter + 1}/${gameSession.gameQuestions.length}",
                   style: Themes.textStyle.headline3,
                 ),
+                const Spacer(),
                 CustomButton(
-                    text: const Text('Hint'),
+                    text: Text('Hint',
+                        style: TextStyle(color: Themes.colors.white)),
                     onPressed: (() {
                       Provider.of<Hint>(context, listen: false).fetchHint(
                           Provider.of<GameSession>(context, listen: false)
@@ -55,7 +57,7 @@ class QuestionView extends StatelessWidget {
                               const HintDialog()));
                     }),
                     width: 60,
-                    height: 40,
+                    height: 35,
                     color: Themes.colors.red),
               ],
             ),
@@ -133,7 +135,7 @@ class _CountDownTimerState extends State<CountDownTimer> {
                 Themes.colors.yellow,
                 Themes.colors.green
               ],
-              stops: [
+              stops: const [
                 0.1,
                 0.3,
                 1,
@@ -183,10 +185,13 @@ class HintDialog extends StatelessWidget {
         contentPadding: const EdgeInsets.all(15),
         actionsPadding: const EdgeInsets.all(15),
         title: Text(
-          "Here's your hint! Beware, this does cost you some points.",
+          "Here's your hint!",
           style: TextStyle(color: Themes.colors.red),
         ),
-        content: Text(Provider.of<Hint>(context).hint),
+        content: Text(
+          Provider.of<Hint>(context).hint,
+          textAlign: TextAlign.center,
+        ),
         actions: [
           Row(
             children: [
@@ -195,9 +200,7 @@ class HintDialog extends StatelessWidget {
                   onPressed: () {
                     Provider.of<Hint>(context, listen: false).fetchFurtherHint(
                         Provider.of<GameSession>(context, listen: false)
-                            .currentQuestion,
-                        Provider.of<Hint>(context, listen: false)
-                            .previousHints);
+                            .currentQuestion);
                   },
                   width: 100,
                   height: 50,

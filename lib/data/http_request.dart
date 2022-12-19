@@ -11,7 +11,7 @@ class HttpConection {
   // Huge thanks to Will Fry who created this open API!
 
   //
-  final String openAiKey = myOpenAiKey;
+  final String hintKey = myHintKey;
   final String aiUrl = 'https://api.openai.com/v1/completions';
 
   Map<String, String> listCategories = {
@@ -77,7 +77,7 @@ class HttpConection {
 
   Future getHint(Question question) async {
     Map<String, String> headers = {
-      'Authorization': 'Bearer $openAiKey',
+      'Authorization': 'Bearer $hintKey',
       'Content-Type': 'Application/json'
     };
 
@@ -87,7 +87,7 @@ class HttpConection {
     String body = jsonEncode({
       'model': 'text-davinci-003',
       'prompt':
-          'Give a hint to the question. DO NOT include the correct answer in the hint. Question: $stringQuestion. Correct answer: $answer',
+          'Give a hint to the answer of the question. DO NOT include the answer in the hint. Question: $stringQuestion. Answer: $answer',
       'temperature': 0.6,
       'max_tokens': 50
     });
@@ -104,20 +104,19 @@ class HttpConection {
     }
   }
 
-  Future getFurtherHint(Question question, List<String> previousHints) async {
+  Future getFurtherHint(Question question, String previousHints) async {
     Map<String, String> headers = {
-      'Authorization': 'Bearer $openAiKey',
+      'Authorization': 'Bearer $hintKey',
       'Content-Type': 'Application/json'
     };
 
     String stringQuestion = question.question;
     String answer = question.correctAnswer;
-    List<String> hints = previousHints;
 
     String body = jsonEncode({
       'model': 'text-davinci-003',
       'prompt':
-          'Give a hint to the question. DO NOT include the correct answer in the hint. Question: $stringQuestion. Correct answer: $answer. DO NOT include these hints: $hints',
+          'Give a hint to the answer of the question. DO NOT include the answer in the hint. Question: $stringQuestion. Answer: $answer. DO NOT give any of these hints: $previousHints.',
       'temperature': 0.6,
       'max_tokens': 50
     });
@@ -129,7 +128,6 @@ class HttpConection {
       String hint = data['choices'][0]['text'];
       return hint;
     } else {
-      print(response.body);
       return 'Something went wrong. ${response.statusCode.toString()}';
     }
   }
