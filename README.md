@@ -1,11 +1,13 @@
-## Projekt arbete kurs TIG333 Programmering av mobila appar i flutter.
+## Projektarbete kurs TIG333, Göteborgs Universitet; Programmering av mobila appar i flutter.
+
+# Appen är vidareutvecklad under projekt i kurs TIG330, Design och AI.
 
 # Quizter Pettersson
 
 En Quiz app som använder sig av ett öppet api med flersvarsfrågor. 
 Stort tack till [The Trivia API](https://the-trivia-api.com/) och Will Fry som skapat det. 
 Vi använder en databas från [Deta](https://deta.sh) för att lagra data till highscore. 
-Så man kan skryta med sitt resultat
+
 
 ## Innan användning!!
 För att highscore skall fungera behövs en nyckel till databasen.
@@ -19,5 +21,5 @@ För att highscore skall fungera behövs en nyckel till databasen.
  - Gustaf Hasselgren
  - Mårten Jonsson
  - Ludvig Boström
- - Andreas Fredrison
+ - Andreas Fredriksson
  - Josef Gunnarsson
