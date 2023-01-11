@@ -18,7 +18,7 @@ För att highscore skall fungera behövs en nyckel till databasen.
 
 Samma gäller för hint-funktionen, en API-nyckel till OpenAI krävs, i samma fil som ovan.
 https://openai.com/api/
-- Tilldela nyckeln till 'myKey'.
+- Tilldela nyckeln till 'myHintKey'.
 
 ## Vi som gjort detta projekt är:
  - August Aublet
