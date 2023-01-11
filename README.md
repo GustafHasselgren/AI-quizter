@@ -16,6 +16,10 @@ För att highscore skall fungera behövs en nyckel till databasen.
 - Döp om till lib/auth<top_secret.dart>. 
 - Använd demonyckel som databasKey för att testa spelet med Highscore.
 
+Samma gäller för hint-funktionen, en API-nyckel till OpenAI krävs, i samma fil som ovan.
+https://openai.com/api/
+- Tilldela nyckeln till 'myKey'.
+
 ## Vi som gjort detta projekt är:
  - August Aublet
  - Gustaf Hasselgren
